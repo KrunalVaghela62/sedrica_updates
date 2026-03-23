@@ -15,7 +15,30 @@ An evolving collection of projects focused on advanced computer vision and robus
 *   **🏎️ F1Tenth Integration:** Apply vision and localization concepts to the challenging Roboracer F1Tenth platform for real-world autonomous driving scenarios.
 *   **🚀 Modular Project Structure:** Benefit from a well-organized repository with distinct modules for Vision Transformers and F1Tenth projects, facilitating easy navigation and contribution.
 *   **🛠️ Multi-language Support:** Leverage projects built with Python, C++, Lua, and Jupyter Notebooks, offering flexibility for different development needs.
+[Watch Demo Video]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=-c_0hSjgLYw))
+## 📸 Project Demonstration
 
+### 🏆 Figure 1: Team and Competition Setup
+<p align="center">
+  <img src="WhatsApp Image 2026-03-23 at 23.00.12.jpeg" width="600">
+</p>
+<p align="center"><em>Team members with the autonomous racing platform at the competition venue</em></p>
+
+---
+
+### 🚗 Figure 2: Autonomous Vehicle in Motion
+<p align="center">
+  <img src="WhatsApp Image 2026-03-23 at 23.00.12(2).jpeg" width="600">
+</p>
+<p align="center"><em>F1Tenth vehicle navigating the track in real-time</em></p>
+
+---
+
+### 🛣️ Figure 3: Race Track Layout
+<p align="center">
+  <img src="WhatsApp Image 2026-03-23 at 23.00.12(1).jpeg" width="600">
+</p>
+<p align="center"><em>Indoor racing track setup used for testing and competition</em></p>
 ## ⚙️ Installation Guide
 
 This repository contains multiple projects, each with potentially unique dependencies. Below are general installation steps. Please refer to specific project subdirectories (e.g., `Roboracer-F1Tenth/`, `Vision Transformers/`) for detailed instructions.
