@@ -28,7 +28,7 @@ An evolving collection of projects focused on advanced computer vision and robus
 
 ### 🚗 Figure 2: Autonomous Vehicle in Motion
 <p align="center">
-  <img src="WhatsApp Image 2026-03-23 at 23.00.12(2).jpeg" width="600">
+  <img src="WhatsApp Image 2026-03-23 at 23.00.12 (2).jpeg" width="600">
 </p>
 <p align="center"><em>F1Tenth vehicle navigating the track in real-time</em></p>
 
@@ -36,7 +36,7 @@ An evolving collection of projects focused on advanced computer vision and robus
 
 ### 🛣️ Figure 3: Race Track Layout
 <p align="center">
-  <img src="WhatsApp Image 2026-03-23 at 23.00.12(1).jpeg" width="600">
+  <img src="WhatsApp Image 2026-03-23 at 23.00.12 (1).jpeg" width="600">
 </p>
 <p align="center"><em>Indoor racing track setup used for testing and competition</em></p>
 ## ⚙️ Installation Guide
