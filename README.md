@@ -7,7 +7,6 @@ An evolving collection of projects focused on advanced computer vision and robus
 ![Stars](https://img.shields.io/github/stars/KrunalVaghela62/Computer-Vision-and-localisation?style=social)
 ![Forks](https://img.shields.io/github/forks/KrunalVaghela62/Computer-Vision-and-localisation?style=social)
 
-![example-preview-image](/preview_example.png)
 
 ## ✨ Features
 
