@@ -1,12 +1,39 @@
 
-VisionTransformer (Pytorch)
-A complete easy to follow implementation of Google's Vision Transformer proposed in "AN IMAGE IS WORTH 16X16 WORDS". This pytorch implementation has comments for better understanding.
+## 🧠 Vision Transformer (PyTorch)
 
-An image is worth 16x16 words: transformers for image recognition at scale: Find the original paper here.
+A complete and easy-to-follow implementation of Google’s Vision Transformer proposed in  
+**"An Image is Worth 16×16 Words"**.
 
+This PyTorch implementation includes detailed comments for better understanding, making it especially useful for beginners exploring attention mechanisms and transformer-based models.
 
-This Pytorch Implementation is based on This repo but follows the original paper more closely in terms of the first patch embedding and initializations. The default dataset used here is CIFAR10 which can be easily changed to ImageNet or anything else.
-You might need to install einops.
-According to the paper, if you are training from scratch, accuracy might not match state of the art CNNs like ResNet. Pretrain on a larger dataset to exploit the full potential of Vision transformer.
-Easy to understand commnets are available in the code for better understanding, specially for beginners in attention and transformer models.
-The standalone script "Google_ViT" is sufficient to run this code.
+---
+
+## 🖼️ Vision Transformer Architecture
+
+<p align="center">
+  <img src="ViT.png" width="600">
+</p>
+
+The above figure illustrates the full pipeline of the Vision Transformer, including patch embedding, positional encoding, and transformer encoder blocks.
+
+---
+
+## 📄 Reference Paper
+
+**An Image is Worth 16×16 Words: Transformers for Image Recognition at Scale**  
+👉 [Read the original paper]([https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929))
+
+---
+
+## ⚙️ Implementation Details
+
+- Based on an existing implementation but follows the **original paper more closely**, especially:
+  - Patch embedding strategy  
+  - Initialization methods  
+
+- Default dataset: **CIFAR-10**  
+  - Can be easily modified to use **ImageNet** or other datasets  
+
+- Uses `einops` for tensor manipulation  
+  ```bash
+  pip install einops
