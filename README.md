@@ -15,6 +15,8 @@ An evolving collection of projects focused on advanced computer vision and robus
 *   **🏎️ F1Tenth Integration:** Apply vision and localization concepts to the challenging Roboracer F1Tenth platform for real-world autonomous driving scenarios.
 *   **🚀 Modular Project Structure:** Benefit from a well-organized repository with distinct modules for Vision Transformers and F1Tenth projects, facilitating easy navigation and contribution.
 *   **🛠️ Multi-language Support:** Leverage projects built with Python, C++, Lua, and Jupyter Notebooks, offering flexibility for different development needs.
+  #   🤖 Here is the video of particle filter implementation:
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=-c_0hSjgLYw">
     <img src="https://img.youtube.com/vi/-c_0hSjgLYw/maxresdefault.jpg" width="700">
